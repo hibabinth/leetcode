@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hibabinth/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/hibabinth/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/hibabinth/leetcode/tree/master/0217-contains-duplicate) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hibabinth/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/hibabinth/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hibabinth/leetcode/tree/master/0069-sqrtx) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
