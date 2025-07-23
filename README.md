@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hibabinth/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/hibabinth/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/hibabinth/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/hibabinth/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hibabinth/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hibabinth/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/hibabinth/leetcode/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/hibabinth/leetcode/tree/master/0742-to-lower-case) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/hibabinth/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/hibabinth/leetcode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -58,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hibabinth/leetcode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/hibabinth/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
