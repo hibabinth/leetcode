@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hibabinth/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hibabinth/leetcode/tree/master/0069-sqrtx) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2491-smallest-even-multiple](https://github.com/hibabinth/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/hibabinth/leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/hibabinth/leetcode/tree/master/0389-find-the-difference) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/hibabinth/leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
