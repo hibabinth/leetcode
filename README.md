@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hibabinth/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/hibabinth/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hibabinth/leetcode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2491-smallest-even-multiple](https://github.com/hibabinth/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hibabinth/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hibabinth/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/hibabinth/leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/hibabinth/leetcode/tree/master/0742-to-lower-case) |
 ## Sorting
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/hibabinth/leetcode/tree/master/2491-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
