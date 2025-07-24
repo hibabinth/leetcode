@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hibabinth/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/hibabinth/leetcode/tree/master/0217-contains-duplicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hibabinth/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2491-smallest-even-multiple](https://github.com/hibabinth/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hibabinth/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
