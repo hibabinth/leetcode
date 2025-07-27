@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hibabinth/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hibabinth/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/hibabinth/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/hibabinth/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/hibabinth/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -88,9 +89,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hibabinth/leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/hibabinth/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hibabinth/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
