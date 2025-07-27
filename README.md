@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hibabinth/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hibabinth/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/hibabinth/leetcode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/hibabinth/leetcode/tree/master/0409-longest-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hibabinth/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hibabinth/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/hibabinth/leetcode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/hibabinth/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/hibabinth/leetcode/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/hibabinth/leetcode/tree/master/0742-to-lower-case) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/hibabinth/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/hibabinth/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
