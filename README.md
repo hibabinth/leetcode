@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/hibabinth/leetcode/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/hibabinth/leetcode/tree/master/0742-to-lower-case) |
+| [2235-capitalize-the-title](https://github.com/hibabinth/leetcode/tree/master/2235-capitalize-the-title) |
 ## Sorting
 |  |
 | ------- |
