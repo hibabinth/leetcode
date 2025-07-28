@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hibabinth/leetcode/tree/master/0217-contains-duplicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hibabinth/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hibabinth/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2491-smallest-even-multiple](https://github.com/hibabinth/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hibabinth/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hibabinth/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/hibabinth/leetcode/tree/master/2630-alternating-digit-sum) |
 ## Two Pointers
 |  |
