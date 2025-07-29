@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/hibabinth/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/hibabinth/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/hibabinth/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/hibabinth/leetcode/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/hibabinth/leetcode/tree/master/0742-to-lower-case) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/hibabinth/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/hibabinth/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/hibabinth/leetcode/tree/master/0191-number-of-1-bits) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/hibabinth/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
