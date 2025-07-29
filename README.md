@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hibabinth/leetcode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hibabinth/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/hibabinth/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2491-smallest-even-multiple](https://github.com/hibabinth/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/hibabinth/leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hibabinth/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hibabinth/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/hibabinth/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/hibabinth/leetcode/tree/master/0389-find-the-difference) |
+| [1610-xor-operation-in-an-array](https://github.com/hibabinth/leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
