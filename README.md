@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hibabinth/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/hibabinth/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2491-smallest-even-multiple](https://github.com/hibabinth/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/hibabinth/leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hibabinth/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hibabinth/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/hibabinth/leetcode/tree/master/2630-alternating-digit-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/hibabinth/leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/hibabinth/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/hibabinth/leetcode/tree/master/2507-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/hibabinth/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/hibabinth/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
