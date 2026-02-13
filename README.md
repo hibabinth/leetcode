@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hibabinth/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hibabinth/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hibabinth/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/hibabinth/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/hibabinth/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hibabinth/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/hibabinth/leetcode/tree/master/0326-power-of-three) |
@@ -147,8 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hibabinth/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/hibabinth/leetcode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hibabinth/leetcode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hibabinth/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
